@@ -1,0 +1,81 @@
+
+/* Class = "UIButton"; normalTitle = "Connect"; ObjectID = "2LF-eG-Zhv"; */
+"2LF-eG-Zhv.normalTitle" = "Connect";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2mG-te-YWM"; */
+"2mG-te-YWM.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "IoT"; ObjectID = "6v4-mD-7eg"; */
+"6v4-mD-7eg.title" = "IoT";
+
+/* Class = "UILabel"; text = "Patient App"; ObjectID = "8Mh-0U-Ogn"; */
+"8Mh-0U-Ogn.text" = "Patient App";
+
+/* Class = "UIViewController"; title = "Navigation"; ObjectID = "AtN-OI-MHi"; */
+"AtN-OI-MHi.title" = "Navigation";
+
+/* Class = "UIViewController"; title = "Navigation"; ObjectID = "Fvl-YV-nZB"; */
+"Fvl-YV-nZB.title" = "Navigation";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "G6H-ui-jEB"; */
+"G6H-ui-jEB.title" = "Home";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "JCP-tA-bFZ"; */
+"JCP-tA-bFZ.title" = "Item";
+
+/* Class = "UIViewController"; title = "Heartbeat"; ObjectID = "RUr-0E-IJ8"; */
+"RUr-0E-IJ8.title" = "Heartbeat";
+
+/* Class = "UITextField"; text = "iot.eclipse.org"; ObjectID = "Sox-en-KPr"; */
+"Sox-en-KPr.text" = "iot.eclipse.org";
+
+/* Class = "UITabBarItem"; title = "IoT"; ObjectID = "VvG-xM-vcx"; */
+"VvG-xM-vcx.title" = "IoT";
+
+/* Class = "UIButton"; normalTitle = "Send Text"; ObjectID = "bbZ-fS-VKV"; */
+"bbZ-fS-VKV.normalTitle" = "Send Text";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "c8P-Kr-0is"; */
+"c8P-Kr-0is.text" = "Server";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "cKB-xm-wUg"; */
+"cKB-xm-wUg.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "dJ5-ug-wOt"; */
+"dJ5-ug-wOt.text" = "Port";
+
+/* Class = "UIBarButtonItem"; title = "Clear"; ObjectID = "eF5-Oo-wCj"; */
+"eF5-Oo-wCj.title" = "Clear";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gf3-Rm-oAV"; */
+"gf3-Rm-oAV.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Heartbeat Measure"; ObjectID = "iAp-WZ-iVn"; */
+"iAp-WZ-iVn.title" = "Heartbeat Measure";
+
+/* Class = "UILabel"; text = "Accelerometer"; ObjectID = "mmX-XK-zQy"; */
+"mmX-XK-zQy.text" = "Accelerometer";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "qy9-9X-5OZ"; */
+"qy9-9X-5OZ.text" = "0";
+
+/* Class = "UILabel"; text = "Messages Published:"; ObjectID = "rYJ-fD-JqX"; */
+"rYJ-fD-JqX.text" = "Messages Published:";
+
+/* Class = "UILabel"; text = "x: 0.0"; ObjectID = "sja-Cq-P8f"; */
+"sja-Cq-P8f.text" = "x: 0.0";
+
+/* Class = "UITextField"; text = "1883"; ObjectID = "tIi-L4-QIY"; */
+"tIi-L4-QIY.text" = "1883";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "tJZ-Ei-AyM"; */
+"tJZ-Ei-AyM.text" = "--";
+
+/* Class = "UILabel"; text = "z: 0.0"; ObjectID = "uly-ez-jAg"; */
+"uly-ez-jAg.text" = "z: 0.0";
+
+/* Class = "UILabel"; text = "y: 0.0"; ObjectID = "xP3-b2-19n"; */
+"xP3-b2-19n.text" = "y: 0.0";
+
+/* Class = "UILabel"; text = "Messages Received:"; ObjectID = "zrf-6U-k3T"; */
+"zrf-6U-k3T.text" = "Messages Received:";
